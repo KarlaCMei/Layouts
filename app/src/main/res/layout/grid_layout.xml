@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="3"
+    tools:layout_editor_absoluteX="56dp"
+    tools:layout_editor_absoluteY="0dp">
+
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <Button />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:text="hola"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:text="hola"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:text="hola"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:text="hola"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/black"
+        android:text="hola"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+
+</GridLayout>
